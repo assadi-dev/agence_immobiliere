@@ -8,6 +8,7 @@
     "start": "next start"
   },
   "dependencies": {
+    "@netlify/plugin-nextjs": "^3.5.0",
     "axios": "^0.21.1",
     "dayjs": "^1.10.4",
     "js-cookie": "^2.2.1",
